@@ -1,6 +1,5 @@
 # Hey 👋
-My name is Igor,
-I'm a little young programmer! 👨‍💻
+My name is Igor.
 
 - 📍 Santa Catarina - Brazil
 - 📌Javascript, Java
