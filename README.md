@@ -32,7 +32,7 @@
 
 <p align="center">
   <a href="https://github.com/IgorWK" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=IgorWK&theme=react&show_icons=true">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=IgorWK&count_private=true&theme=react&show_icons=true">
   </a>
 </p>
 <br />
