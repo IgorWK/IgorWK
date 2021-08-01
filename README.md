@@ -33,4 +33,8 @@
 
 #
 
+![Snake animation](https://github.com/IgorWK/IgorWK/blob/output/github-contribution-grid-snake.svg)
+
+#
+
 <h3>𝗧𝗵𝗮𝗻𝗸𝘀 𝗙𝗼𝗿 𝗩𝗶𝘀𝗶𝘁𝗶𝗻𝗴 <img height="35" src="https://emoji.gg/assets/emoji/1683-catkek.png"> </h3>
