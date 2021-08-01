@@ -28,7 +28,7 @@
 
 <p align="center">
   <a href="https://github.com/IgorWK" target="_blank">
-    <img height="240em" align="center" src="https://github-readme-stats.vercel.app/api?username=IgorWK&count_private=true&theme=react&show_icons=true">
+    <img height="240em" align="center" src="https://github-readme-stats.vercel.app/api?username=IgorWK&count_private=true&count_public=true&theme=react&show_icons=true">
   </a>
 </p>
 
