@@ -20,22 +20,16 @@
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"></code>
 
 <br/>
-<br/>
 
-#
 
-<div>
-  <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25">
-  <span> 𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀: </span>
-</div>
+<h2>𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀:</h2>
 <br>
 
 <p align="center">
   <a href="https://github.com/IgorWK" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=IgorWK&count_private=true&theme=react&show_icons=true">
+    <img height="240em" align="center" src="https://github-readme-stats.vercel.app/api?username=IgorWK&count_private=true&theme=react&show_icons=true">
   </a>
 </p>
-<br />
 
 #
 
