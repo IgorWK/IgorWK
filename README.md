@@ -1,4 +1,4 @@
-<h1>𝗛𝗶! 𝗜'𝗺 𝗜𝗴𝗼𝗿. <img src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/Hi.gif" width="25"></h1>
+<h1>𝗛𝗶! 𝗜'𝗺 𝗜𝗴𝗼𝗿.</h1>
 <img align="right" width="50%" src="https://cdn.dribbble.com/users/220167/screenshots/2373375/resp_dribbble.gif">
 
 <h2> <img src="https://emoji.gg/assets/emoji/3637-cooldoge.png" width="24"/> 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲 </h2>
