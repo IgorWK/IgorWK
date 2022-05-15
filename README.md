@@ -11,7 +11,7 @@
 <br />
 
 <h2>𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 𝐚𝐧𝐝 𝐓𝐨𝐨𝐥𝐬:</h2>
-<code><a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img height="30" width="30" src="https://www.flaticon.com/svg/static/icons/svg/1216/1216733.svg"></a></code>
+<code><a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png"></a></code>
 <code><a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img height="30" width="30" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></a></code>
 <code><a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a></code>
 <code><a href="https://docs.oracle.com/en/java/"><img height="30" width="30" src="https://image.flaticon.com/icons/png/512/226/226777.png"></a></code>
